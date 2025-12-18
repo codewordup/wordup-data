@@ -1,0 +1,55 @@
+{
+  "beginner": [
+    {
+      "word": "hello",
+      "correct": "привет",
+      "options": ["пока", "дом", "машина"]
+    },
+    {
+      "word": "apple",
+      "correct": "яблоко",
+      "options": ["банан", "груша", "апельсин"]
+    },
+    {
+      "word": "dog",
+      "correct": "собака",
+      "options": ["кошка", "птица", "рыба"]
+    }
+  ],
+  "intermediate": [
+    {
+      "word": "beautiful",
+      "correct": "красивый",
+      "options": ["уродливый", "большой", "маленький"]
+    },
+    {
+      "word": "run",
+      "correct": "бежать",
+      "options": ["идти", "плавать", "летать"]
+    }
+  ],
+  "advanced": [
+    {
+      "word": "ephemeral",
+      "correct": "эфемерный",
+      "options": ["вечный", "постоянный", "долговечный"]
+    },
+    {
+      "word": "ubiquitous",
+      "correct": "вездесущий",
+      "options": ["редкий", "уникальный", "скрытый"]
+    }
+  ],
+  "synonyms_beginner": [
+    {
+      "word": "happy",
+      "correct": "joyful",
+      "options": ["sad", "angry", "tired"]
+    },
+    {
+      "word": "big",
+      "correct": "large",
+      "options": ["small", "tiny", "little"]
+    }
+  ]
+}
