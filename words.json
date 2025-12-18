@@ -1,55 +1,45 @@
 {
   "beginner": [
-    {
-      "word": "hello",
-      "correct": "привет",
-      "options": ["пока", "дом", "машина"]
-    },
-    {
-      "word": "apple",
-      "correct": "яблоко",
-      "options": ["банан", "груша", "апельсин"]
-    },
-    {
-      "word": "dog",
-      "correct": "собака",
-      "options": ["кошка", "птица", "рыба"]
-    }
+    { "word": "sun", "correct": "солнце", "options": ["луна", "звезда", "небо"] },
+    { "word": "moon", "correct": "луна", "options": ["солнце", "облако", "звезда"] },
+    { "word": "food", "correct": "еда", "options": ["вода", "дом", "улица"] },
+    { "word": "friend", "correct": "друг", "options": ["враг", "учитель", "сосед"] },
+    { "word": "school", "correct": "школа", "options": ["магазин", "дом", "парк"] },
+    { "word": "chair", "correct": "стул", "options": ["стол", "кровать", "диван"] },
+    { "word": "street", "correct": "улица", "options": ["комната", "дом", "школа"] },
+    { "word": "car", "correct": "машина", "options": ["велосипед", "поезд", "самолёт"] },
+    { "word": "happy", "correct": "счастливый", "options": ["грустный", "злой", "уставший"] },
+    { "word": "cold", "correct": "холодный", "options": ["тёплый", "горячий", "мягкий"] }
   ],
   "intermediate": [
-    {
-      "word": "beautiful",
-      "correct": "красивый",
-      "options": ["уродливый", "большой", "маленький"]
-    },
-    {
-      "word": "run",
-      "correct": "бежать",
-      "options": ["идти", "плавать", "летать"]
-    }
+    { "word": "improve", "correct": "улучшать", "options": ["портить", "терять", "ломать"] },
+    { "word": "choose", "correct": "выбирать", "options": ["отказываться", "прятать", "терять"] },
+    { "word": "develop", "correct": "развивать", "options": ["останавливать", "разрушать", "игнорировать"] },
+    { "word": "dangerous", "correct": "опасный", "options": ["безопасный", "мягкий", "удобный"] },
+    { "word": "success", "correct": "успех", "options": ["провал", "ошибка", "неудача"] },
+    { "word": "experience", "correct": "опыт", "options": ["теория", "удача", "знание"] },
+    { "word": "increase", "correct": "увеличивать", "options": ["уменьшать", "терять", "сокращать"] },
+    { "word": "support", "correct": "поддерживать", "options": ["критиковать", "мешать", "игнорировать"] },
+    { "word": "instead", "correct": "вместо", "options": ["поэтому", "потому что", "хотя"] },
+    { "word": "opinion", "correct": "мнение", "options": ["факт", "правило", "закон"] }
   ],
   "advanced": [
-    {
-      "word": "ephemeral",
-      "correct": "эфемерный",
-      "options": ["вечный", "постоянный", "долговечный"]
-    },
-    {
-      "word": "ubiquitous",
-      "correct": "вездесущий",
-      "options": ["редкий", "уникальный", "скрытый"]
-    }
+    { "word": "sophisticated", "correct": "сложный", "options": ["простой", "грубый", "примитивный"] },
+    { "word": "contemplate", "correct": "созерцать", "options": ["игнорировать", "избегать", "прерывать"] },
+    { "word": "subtle", "correct": "тонкий", "options": ["очевидный", "грубый", "резкий"] },
+    { "word": "coherent", "correct": "связный", "options": ["хаотичный", "путаный", "несвязный"] },
+    { "word": "detrimental", "correct": "вредный", "options": ["полезный", "безопасный", "нейтральный"] },
+    { "word": "meticulous", "correct": "скрупулёзный", "options": ["небрежный", "ленивый", "поверхностный"] },
+    { "word": "obsolete", "correct": "устаревший", "options": ["современный", "новый", "актуальный"] },
+    { "word": "plausible", "correct": "правдоподобный", "options": ["абсурдный", "невозможный", "сомнительный"] },
+    { "word": "intricate", "correct": "замысловатый", "options": ["простой", "ясный", "очевидный"] },
+    { "word": "ineffable", "correct": "невыразимый", "options": ["обычный", "понятный", "банальный"] }
   ],
   "synonyms_beginner": [
-    {
-      "word": "happy",
-      "correct": "joyful",
-      "options": ["sad", "angry", "tired"]
-    },
-    {
-      "word": "big",
-      "correct": "large",
-      "options": ["small", "tiny", "little"]
-    }
+    { "word": "easy", "correct": "simple", "options": ["hard", "difficult", "complex"] },
+    { "word": "angry", "correct": "mad", "options": ["happy", "calm", "pleased"] },
+    { "word": "start", "correct": "begin", "options": ["finish", "stop", "end"] },
+    { "word": "help", "correct": "assist", "options": ["harm", "ignore", "refuse"] },
+    { "word": "fast", "correct": "quick", "options": ["slow", "lazy", "weak"] }
   ]
 }
